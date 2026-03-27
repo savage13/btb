@@ -158,7 +158,7 @@ function populate_table() {
 }
 
 async function init() {
-    let file = await get_file("btbs0.json")
+    let file = await get_file("btbs.json")
     btbs = file.drawData.features;
     for(var i = 0; i < btbs.length; i++) {
         let feat = btbs[i];
