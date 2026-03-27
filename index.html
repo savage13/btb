@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bullet Time Bounce 🚀</title>
+    <link rel='stylesheet' href='global.css'>
+    <link rel='stylesheet' href='site.css'>
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <link rel="stylesheet" href="leaflet/L.Control.MousePosition.css" />
+    <script src="leaflet/leaflet.js"></script>
+    <script src="leaflet/leaflet.polylineDecorator.js"></script>
+    <script src="leaflet/L.Control.MousePosition.js"></script>
+    <script src="leaflet/leaflet.almostover.js"></script>
+    <script src="leaflet/leaflet.geometryutil.js"></script>
+  </head>
+  <body>
+
+    <div id="map"></div>
+
+    <div id="info">
+      <div class="text">Click on any path for more info. All data is also contained in the list below.
+        <br> Credit is due to the <a href="https://objmap.zeldamods.org/">Zeldamods Object Map</a> for the map tiles, object locations and drawing capabilities; also to Breath of the Wild Speedrun Community.
+        <br>
+        If something is wrong, a path is missing, or a good example of a BTB is missing, please let me know and I will add it.
+      </div>
+    </div>
+    <div id="sidebar">
+      <div>
+        <h3 id="title">BTB Catalog
+          <a href="btbs0.json" style="font-size:0.6em;">(json)</a>
+        </h3>
+      </div>
+      <div class="inputwrap">
+        <input type="text" id="search" placeholder="Filter BTBs ...">
+      </div>
+      <div id="app">
+        <div style="text-align: center; color: gray; font-size: 0.95em;">
+          <div class="waiting-dots">Loading BTB paths
+            <span>.</span>
+            <span>.</span>
+            <span>.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="main.js" type="module"></script>
+</html>

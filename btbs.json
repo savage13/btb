@@ -1,0 +1,2190 @@
+{
+  "drawData": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1488,
+              488
+            ],
+            [
+              2454,
+              118
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=3531",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            },
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=5492",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            }
+          ],
+          "enemy": "Lizalfos",
+          "enemy_id": "0x4311ea24",
+          "to": "Zodobon Highlands",
+          "from": "Lanayru Wetlands",
+          "time": 15,
+          "name": "Lanayru Wetlands to Zodobon Highlands",
+          "file": "btb_lanayru_to_zodobon.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3281,
+              2080
+            ],
+            [
+              3252,
+              1356
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=2833",
+              "user": "Tao",
+              "category": "Marriage"
+            }
+          ],
+          "enemy": "Blue Bokoblin",
+          "enemy_id": "0xa6460642",
+          "to": "Nirvata Plateau / Purifier Lake",
+          "from": "Hateno",
+          "time": 38,
+          "name": "Hateno - Nirvata Plateau BTB",
+          "file": "btb_hateno_nirvata.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1832,
+              -1660
+            ],
+            [
+              -3580,
+              -1784
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=2628",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": " 0x639bb89a",
+          "to": "Rito Village",
+          "from": "Miritta Exchange Ruins",
+          "time": 40,
+          "name": "Maritta to Rito",
+          "file": "btb_maritta_rito.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              4439.5,
+              -574.5
+            ],
+            [
+              3896,
+              -685
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=01h26m59s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0x468105e9",
+          "to": "Polymus Mountain",
+          "from": "Inland near Davdi Island",
+          "time": 16,
+          "name": "Davdi Island to Polymus Mountain",
+          "file": "btb_davdi_to_ploymus.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1090,
+              534
+            ],
+            [
+              -2216,
+              421.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=00h25m16s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vQYzmPLLAC4",
+              "user": "BingsF",
+              "category": "AS"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0xdc150fce",
+          "to": "Satori Mountain",
+          "from": "Mount Daphnes",
+          "time": 20,
+          "name": "Mount Daphnes to Satori Mountain",
+          "file": "btb_daphnes_to_satori.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              911.5,
+              -254.4375
+            ],
+            [
+              760,
+              -1644
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/X9mAPwJKV-o?t=1802",
+              "user": "Wolhaiksong",
+              "category": "Master Sword"
+            },
+            {
+              "url": "https://youtu.be/USLra1UUHDc?t=1067",
+              "user": "Roekoe_",
+              "category": "Master Sword"
+            },
+            {
+              "url": "https://youtu.be/SSjV-POAiCs?t=1165",
+              "user": "Player_5",
+              "category": "Master Sword"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0xec7ccc08",
+          "to": "Military Training Camp",
+          "from": "Rebonae Bridge / Crenal Peak",
+          "time": 26,
+          "name": "Rebonae Bridge to Military Training Camp",
+          "file": "btb_rebonae_to_camp.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3161.25,
+              -956.5
+            ],
+            [
+              1988,
+              -1488
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=3494",
+              "user": "Tao",
+              "category": "Marriage"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0x9e46f219",
+          "to": "Goronbi Lake",
+          "from": "Uplands Zorana",
+          "time": 34,
+          "name": "Upland Zorana - Goronbi Lake BTB",
+          "file": "btb_zora_up_goronbi.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -812,
+              1958
+            ],
+            [
+              1218,
+              1808
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=2387",
+              "user": "Tao",
+              "category": "Marriage"
+            },
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=1189",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            }
+          ],
+          "enemy": "Bokoblin",
+          "enemy_id": "0x1344458e",
+          "to": "Dueling Peaks",
+          "from": "Temple of Time",
+          "time": 37,
+          "name": "Temple of Time - Dueling Peaks BTB",
+          "file": "btb_tot_dueling_peaks.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              4510,
+              234
+            ],
+            [
+              4450,
+              -572
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=01h26m27s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0x9d0f28e3",
+          "to": "Tavdi Island",
+          "from": "Northern Talus Plateau",
+          "time": 15,
+          "name": "Talus Plateau to Davdi Island",
+          "file": "btb_talus_to_davdi.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1209.5,
+              -172.25
+            ],
+            [
+              -1754,
+              -770
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=wKt9TJA2ps8&t=2770s",
+              "user": "bggdimm",
+              "category": "All Towers"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0x38403fd6",
+          "to": "Ridgeland Tower",
+          "from": "Regencia River / Mount Gustaf",
+          "time": 21,
+          "name": "Moblin of Demise BTB",
+          "file": "btb_moblin_of_demise.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -311,
+              3572.25
+            ],
+            [
+              918,
+              3654
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=01h15m47s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0xc0602e52",
+          "to": "Malanya Spring",
+          "from": "Pappetto Grove",
+          "time": 29,
+          "name": "Pappetto to Malanya",
+          "file": "btb_pappetto_to_malanya.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1246,
+              -2298
+            ],
+            [
+              -252.75,
+              -990.75
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=5556",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xb5c49c91",
+          "to": "Hyrule Castle",
+          "from": "Western Goron Outskirts",
+          "time": 35,
+          "name": "Western Goron Outskirts to Hyrule Castle",
+          "file": "btb_goron_to_hyrule.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              2473,
+              -922.5
+            ],
+            [
+              2855,
+              -719.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=-DYxtwAhB9E&t=2353s",
+              "user": "Vivoxe",
+              "category": "All Towers"
+            }
+          ],
+          "enemy": "Blue Bokoblin",
+          "enemy_id": "0x80b91579",
+          "to": "Western Upland Zorana",
+          "from": "Tribly Valley Skull Camp",
+          "time": 14,
+          "name": "Trilby Valley BTB",
+          "file": "btb_trilby_valley.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3073.875,
+              1362.125
+            ],
+            [
+              -3596,
+              -952
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=b_br8lknlf8",
+              "user": "breezyCHO",
+              "category": ""
+            }
+          ],
+          "enemy": "Blue Lizalfos",
+          "enemy_id": "0xbdb77da7",
+          "to": "Tabantha Tower",
+          "from": "Kuh Takkar",
+          "time": 28,
+          "name": "Kuh Takkar Tabantha BTB",
+          "file": "btb_kuh_takkar_tabantha.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              2147.5,
+              1383
+            ],
+            [
+              3352.5,
+              2155
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=2582",
+              "user": "Tao",
+              "category": "Marriage"
+            },
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=1472",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            }
+          ],
+          "enemy": "Blue Bokoblin",
+          "enemy_id": "0x89a3f82c",
+          "to": "Hateno",
+          "from": "Outside Kakariko / Maracas",
+          "time": 38,
+          "name": "Outside Kakariko - Hateno BTB",
+          "file": "btb_kakariko_hateno.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1102,
+              1272
+            ],
+            [
+              -2026,
+              -72
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=1128",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xc57773bd",
+          "to": "West Hyrule Plains / Jeddo Bridge",
+          "from": "Coliseum",
+          "time": 27,
+          "name": "Coliseum to West Hyrule Plains",
+          "file": "btb_coliseum_to_plains.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3252,
+              1339.25
+            ],
+            [
+              3314,
+              -498
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=2908",
+              "user": "Tao",
+              "category": "Marriage"
+            }
+          ],
+          "enemy": "Hinox",
+          "enemy_id": "0xc7ad24c5",
+          "to": "Zora's Domain",
+          "from": "Nirvata Plateau / Purifier Lake",
+          "time": 36,
+          "name": "Nirvata Plateau - Zora BTB",
+          "file": "btb_nirvata_zora.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -544.75,
+              1617.75
+            ],
+            [
+              1440,
+              513
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=3466",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0x9a76f708",
+          "to": "Lanayru Wetlands",
+          "from": "Plateau",
+          "time": 41,
+          "name": "Plateau to Lanayru Wetlands",
+          "file": "btb_plateau_to_lanayru.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -450,
+              1722
+            ],
+            [
+              1234,
+              1692
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=uQm3-q5RbT8",
+              "user": "breezyCHO",
+              "category": ""
+            }
+          ],
+          "enemy": "Moblin",
+          "enemy_id": "0x8f81d659",
+          "to": "Dueling Peaks",
+          "from": "Plateau",
+          "time": 35,
+          "name": "Plateau Dueling Peaks BTB",
+          "file": "btb_plateau_dueling_peaks.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -822,
+              1962
+            ],
+            [
+              -2214,
+              2414
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=UcCXeSH5CNE",
+              "user": "breezyCHO",
+              "category": ""
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=ce7lHcbXOr0&t=1270s",
+              "user": "Mikey",
+              "category": "Die Kohga"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0x1344458e",
+          "to": "Wasteland Tower",
+          "from": "Temple of Time",
+          "time": 27,
+          "name": "Plateau Wasteland Tower BTB",
+          "file": "btb_tot_wasteland.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1772,
+              -1728
+            ],
+            [
+              -2720,
+              -890
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=00h44m16s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0x76d6c85d",
+          "to": "Mount Rhoam",
+          "from": "Maritta Exchange Ruins",
+          "time": 28,
+          "name": "Maritta to Mount Rhoam",
+          "file": "btb_maritta_to_rhoam.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3554,
+              -408
+            ],
+            [
+              -3228,
+              942
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=wKt9TJA2ps8&t=3230s",
+              "user": "bggdimm",
+              "category": "All Towers"
+            },
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=3708",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            },
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=2347",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            },
+            {
+              "url": "https://clips.twitch.tv/SecretivePeppyPandaFunRun-F09iFKcPG0MWm_Zq",
+              "user": "Limcube",
+              "category": ""
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xf8cd6229",
+          "to": "Bridge near Kuh Takkar",
+          "from": "Ancient Columns",
+          "time": 24,
+          "name": "Columns to Kuh Takkar",
+          "file": "btb_columns_mystathi.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1840,
+              -1666
+            ],
+            [
+              -2170,
+              -2030
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=-DYxtwAhB9E&t=3230s",
+              "user": "Vivoxe",
+              "category": "All Towers"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0x639bb89a",
+          "to": "Hebra Tower",
+          "from": "Maritta Exchange Ruins",
+          "time": 11,
+          "name": "Maritta Hebra BTB",
+          "file": "btb_maritta_hebra.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1078,
+              2248.5
+            ],
+            [
+              -3066,
+              2896.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=3804",
+              "user": "Tao",
+              "category": "Marriage"
+            },
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=2052",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Blue Bokoblin",
+          "enemy_id": "0x6dd55ae0",
+          "to": "Palu Wasteland / Kara Kara Bazaar / Gerudo Town",
+          "from": "Cryonis",
+          "time": 46,
+          "name": "Cryonis - Palu Wasteland BTB",
+          "file": "btb_cryonis_kara_kara.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -275.5,
+              2657
+            ],
+            [
+              529.5,
+              3451.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=g7DKkFur-g0&t=3030s",
+              "user": "Limcube",
+              "category": "Dog"
+            }
+          ],
+          "enemy": "Lizalfos",
+          "enemy_id": " 0xe5e89de3",
+          "to": "Highland Stable or Lake Tower",
+          "from": "Ya Naga / Lake Hylia",
+          "time": 30,
+          "name": "Ya Naga - Highland Stable / Lake Tower",
+          "file": "btb_ya_naga.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1832,
+              -1656
+            ],
+            [
+              -1986,
+              -2854
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=0h4947s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0x639bb89a",
+          "to": "Tabantha Snowfield",
+          "from": "Maritta Exchange Ruins",
+          "time": 41,
+          "name": "Maritta to Tabantha Snowfield",
+          "file": "btb_maritta_to_snowfield.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -572.5,
+              1580.5
+            ],
+            [
+              -434.5,
+              1990.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=758",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0x6e39d31b",
+          "to": "Bombs / Ja Baij Shrine",
+          "from": "Magnesis / Oman Au Shrine",
+          "time": 7,
+          "name": "Magnesis to Bombs",
+          "file": "btb_to_bombs.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3572,
+              -810
+            ],
+            [
+              3476,
+              -2812
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=01h29m41s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0x1537a8aa",
+          "to": "Akkala Highlands",
+          "from": "Upland Zorana",
+          "time": 42,
+          "name": "Upland Zorana to Akkala Highlands",
+          "file": "btb_zora_to_akkala.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1354,
+              3423
+            ],
+            [
+              1606,
+              2943
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=01h18m23s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Blue Bokoblin",
+          "enemy_id": "0x9de4c66a",
+          "to": "Kamah Plateau",
+          "from": "Floria River",
+          "time": 29,
+          "name": "Floria River to Kamah Plateau",
+          "file": "btb_floria_to_kamah.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1316,
+              1566
+            ],
+            [
+              2734,
+              2135.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=-DYxtwAhB9E&t=1801s",
+              "user": "Vivoxe",
+              "category": "All Towers"
+            }
+          ],
+          "enemy": "Blue Bokoblin",
+          "enemy_id": "0x19a3d240",
+          "to": "Hateno Tower",
+          "from": "North of Dueling Peaks",
+          "time": 70,
+          "name": "Dueling Hats BTB",
+          "file": "btb_dueling_hats.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -807.625,
+              1957.125
+            ],
+            [
+              -403,
+              -827
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/VBm3IHIgf_0?t=929",
+              "user": "Player_5",
+              "category": "Any"
+            },
+            {
+              "url": "https://youtu.be/lkSbs_brIrg?t=948",
+              "user": "rasenruns",
+              "category": "Any"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0x1344458e",
+          "to": "Hyrule Castle / Guards Chamber",
+          "from": "Temple of Time",
+          "time": 49,
+          "name": "Castle BTB",
+          "file": "btb_castle.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1104,
+              1268
+            ],
+            [
+              -2177,
+              453
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=1388",
+              "user": "Tao",
+              "category": "Marriage"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xc57773bd",
+          "to": "Satori Mountain",
+          "from": "Coliseum Ruins",
+          "time": 26,
+          "name": "Coliseum Satori BTB",
+          "file": "btb_coliseum_satori.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3193.5,
+              -967.5
+            ],
+            [
+              1738.75,
+              -1957
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=4426",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Blue Lizalfos",
+          "enemy_id": "0x7b260105",
+          "to": "Southern Mine",
+          "from": "Upland Zorana",
+          "time": 30,
+          "name": "Upland Zorana to Southern Mine",
+          "file": "btb_zora_to_goron.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3558,
+              -406
+            ],
+            [
+              -4496,
+              -2452
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=00h47m07s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xf8cd6229",
+          "to": "West of Lake Kilsle",
+          "from": "Ancient Columns",
+          "time": 39,
+          "name": "Ancient Columns to West of Lake Kilsle",
+          "file": "btb_columns_rito.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3742,
+              1754
+            ],
+            [
+              -2408,
+              2410
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=-DYxtwAhB9E&t=3708s",
+              "user": "Vivoxe",
+              "category": "All Towers"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xc272b024",
+          "to": "Wasteland Tower",
+          "from": "Gerudo Tower",
+          "time": 24,
+          "name": "Gerudo Wasteland BTB",
+          "file": "btb_gerudo_wasteland.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1410,
+              2006
+            ],
+            [
+              -661,
+              1524
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=578",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0xa9409edb",
+          "to": "Magnesis / Oman Au Shrine",
+          "from": "Cryonis / Keh Namut Shrine",
+          "time": 18,
+          "name": "Cryonis to Magnesis",
+          "file": "btb_cryonis_magnesis.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              2655.25,
+              -585.75
+            ],
+            [
+              2714.75,
+              -558.75
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=-DYxtwAhB9E&t=2353s",
+              "user": "Vivoxe",
+              "category": "All Towers"
+            }
+          ],
+          "enemy": "Blue Lizalfos",
+          "enemy_id": "0xc35a09d4",
+          "to": "Western Upland Zorana",
+          "from": "Ternio Trail Bokoblin / Lizalfos Camp",
+          "time": 15,
+          "name": "Ternio Trail BTB",
+          "file": "btb_ternio_camp.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -810.625,
+              1957.625
+            ],
+            [
+              923.25,
+              -274.875
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/X9mAPwJKV-o?t=1741",
+              "user": "Wolhaiksong",
+              "category": "Master Sword"
+            },
+            {
+              "url": "https://youtu.be/USLra1UUHDc?t=1008",
+              "user": "Roekoe_",
+              "category": "Master Sword"
+            },
+            {
+              "url": "https://youtu.be/SSjV-POAiCs?t=1098",
+              "user": "Player_5",
+              "category": "Master Sword"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0x1344458e",
+          "to": "Rebonae Bridge / Crenel Peak",
+          "from": "Temple of Time",
+          "time": 44,
+          "name": "Plateau to Rebonae Bridge",
+          "file": "btb_plateau_to_rebonae.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3190,
+              -957.5
+            ],
+            [
+              1416,
+              -1536
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=6507",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            }
+          ],
+          "enemy": "Blue Lizalfos",
+          "enemy_id": "0x7b260105",
+          "to": "Daruk's Mettle Memory",
+          "from": "Upland Zorana",
+          "time": 38,
+          "name": "Upland Zorana to Daruk's Mettle Memory",
+          "file": "btb_zora_to_memory.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3078,
+              1368
+            ],
+            [
+              -3800,
+              2816
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=-Xa24U_5KbE",
+              "user": "breezyCHO",
+              "category": ""
+            }
+          ],
+          "enemy": "Blue Lizalfos",
+          "enemy_id": "0xbdb77da7",
+          "to": "Gerudo Town",
+          "from": "Kuh Takkar",
+          "time": 21,
+          "name": "Kuh Takkar Gerudo BTB",
+          "file": "btb_kuh_takkar_gerudo.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -2020,
+              -62
+            ],
+            [
+              -2962,
+              -436
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/pRakVAMmxUk?t=1534",
+              "user": "Tao",
+              "category": "Marriage"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xc57773bd",
+          "to": "Tabantha Bridge Stable",
+          "from": "West Hyrule Plains / Jeddo Bridge",
+          "time": 18,
+          "name": "West Hyrule Plains Tabantha Bridge Stable BTB",
+          "file": "btb_hyrule_plain_tabantha_stable.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1832,
+              2640
+            ],
+            [
+              3036,
+              1784
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.twitch.tv/videos/655610936?t=01h20m45s",
+              "user": "Limcube",
+              "category": "All Lynels"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0x48021671",
+          "to": "Ovli Plain",
+          "from": "Angel Peak",
+          "time": 37,
+          "name": "Angel Peak to Ovli Plain",
+          "file": "btb_angel_to_ovli.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -2031,
+              -82.5
+            ],
+            [
+              -3464,
+              -436
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=1173",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            },
+            {
+              "url": "https://youtu.be/sL4tb2FgNM0?t=3585",
+              "user": "Johnnyboomr",
+              "category": "AMQ"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xde3ef5ea",
+          "to": "Tena Kosah Shrine",
+          "from": "West Hyrule Plains / Jeddo Bridge",
+          "time": 22,
+          "name": "West Hyrule Plains to Tena Kosah",
+          "file": "btb_plains_to_tena_kosah.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1031.5,
+              2270.5
+            ],
+            [
+              -1426.5,
+              1982
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/Nf-lQehnFOI?t=434",
+              "user": "Johnnyboomr",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": "0x5eac8756",
+          "to": "Cryonis / Keh Namut Shrine",
+          "from": "Stasis / Owa Daim Shrine",
+          "time": 12,
+          "name": "Stasis to Cryonis",
+          "file": "btb_stasis_cryonis.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3722,
+              -1026
+            ],
+            [
+              -3721.75,
+              -1000.25
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=drF_Of-iwLs&t=6564s",
+              "user": "smich",
+              "category": "100"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xc41a36a4",
+          "to": "Tabantha",
+          "from": "Tabantha",
+          "time": 4,
+          "name": "Tabantha Tower Elevator",
+          "file": "btb_tabantha_tower_elevator.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3742.4375,
+              1746.9375
+            ],
+            [
+              -3784,
+              2860
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=8Q-vJBSBhV0&t=2558s",
+              "user": "Vivoxe",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xc272b024",
+          "to": "Gerudo Town",
+          "from": "Gerudo Tower",
+          "time": 14,
+          "name": "Gerudo Tower to Gerudo Town",
+          "file": "btb_gerudo_tower_to_town.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -2278,
+              2360
+            ],
+            [
+              -2807.75,
+              1557.25
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://youtu.be/ce7lHcbXOr0?t=1361",
+              "user": "Mikey",
+              "category": "Die Kohga"
+            }
+          ],
+          "enemy": "Blue Moblin",
+          "enemy_id": "0xd1f51d3d",
+          "to": "Southeast Gerudo Highlands",
+          "from": "Wasteland Tower",
+          "time": 23,
+          "name": "Wasteland Tower to Southeastern Gerudo Highlands",
+          "file": "btb_wasteland_to_highlands.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -809.5,
+              1959.5
+            ],
+            [
+              930,
+              349.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://twitter.com/Swiffy22/status/1320237904405278721",
+              "user": "Swiffy22",
+              "category": ""
+            }
+          ],
+          "enemy": "Red Bokoblin",
+          "enemy_id": " 0x1344458e",
+          "to": "Kaya Wan Forest",
+          "from": "Temple of Time",
+          "time": 39,
+          "name": "Plateau to Kaya Wan Forest",
+          "file": "btb_plateau_to_kaya_wan_forest.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              2798.5,
+              3201
+            ],
+            [
+              3355,
+              2152
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://clips.twitch.tv/ExuberantCourageousSquirrelBibleThump-M64q0_dOlkgBZ4kK",
+              "user": "SrTapir",
+              "category": "Dog"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xdbc7e309",
+          "to": "Hateno",
+          "from": "Yah Rin",
+          "time": 23,
+          "name": "Yah Rin to Hateno",
+          "file": "btb_yah_rin_to_hateno.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              2670,
+              -1629.125
+            ],
+            [
+              2156.5,
+              -1818
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://clips.twitch.tv/CautiousTentativeChinchillaOneHand-46CQN7TejJPpwMRv",
+              "user": "SrTapir",
+              "category": "Dog"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xd3d62e13",
+          "to": "Medingo Pool",
+          "from": "Sah Dahaj",
+          "time": 12,
+          "name": "Sah Dahaj to Medingo Pool",
+          "file": "btb_sah_dahaj_to_medingo.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1635,
+              487
+            ],
+            [
+              1809,
+              952
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=Jmtwu-TCJ7A",
+              "user": "BingsF",
+              "category": "AS"
+            }
+          ],
+          "enemy": "Lizalfos",
+          "enemy_id": "0x80103d4c",
+          "to": "Kakariko",
+          "from": "Daka Tuss",
+          "time": 9,
+          "name": "Daka Tuss to Kakariko",
+          "file": "daka_tuss_to_kakariko.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1834.5,
+              -1656.5
+            ],
+            [
+              -3247.5,
+              -1768.5
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=c0tWcVv1Ivc",
+              "user": "BingsF",
+              "category": "AS"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0x639bb89a",
+          "to": "Rito Stable",
+          "from": "Maritta Exchange Ruins",
+          "time": 28,
+          "name": "Maritta Ruins to Rito Stable (Night)",
+          "file": "maritta_to_rito_stable_at_night.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3554,
+              -400
+            ],
+            [
+              -3820,
+              618
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=WdEwvOVaFeY",
+              "user": "BingsF (Night)",
+              "category": "AS"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=xk5XLO1rrTk",
+              "user": "BingsF (Day)",
+              "category": "AS"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xf8cd6229",
+          "to": "Keeha Yoog",
+          "from": "Ancient Columns / Tena Kosah",
+          "time": 15,
+          "name": "Tena Kosah to Keeha Yoog",
+          "file": "tena_kosah_to_keeha_yoog.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              3771.5,
+              1400.5
+            ],
+            [
+              3312,
+              -476
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=qMX4W3cTnT4",
+              "user": "BingsF",
+              "category": "AS"
+            }
+          ],
+          "enemy": "Blue Lizalfos",
+          "enemy_id": "0x33d0ac05",
+          "to": "Neez Yohma",
+          "from": "Jitan Sami",
+          "time": 27,
+          "name": "Jitan Sami (Spring of Wisdom) to Neez Yohma (Zora)",
+          "file": "jitan_sami_to_neez_yohma.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1100,
+              1266
+            ],
+            [
+              -2298,
+              698
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=5qSSJPBS2qs&t=1300s",
+              "user": "SrTapir",
+              "category": "AKM"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xc57773bd",
+          "to": "Satori Mountain",
+          "from": "Colisseum",
+          "time": 33,
+          "name": "Colisseum to Satori Mountain",
+          "file": "solisseum_to_satori_fdb.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -3081,
+              -2521
+            ],
+            [
+              -3000,
+              -3209
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=5qSSJPBS2qs&t=4532s",
+              "user": "SrTapir",
+              "category": "AKM"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xf189143a",
+          "to": "Shada Naw",
+          "from": "Southern Hebra",
+          "time": 18,
+          "name": "Southern Hebra to Shada Naw",
+          "file": "southern_hebra_to_shada_naw.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1423.125,
+              -1319.625
+            ],
+            [
+              1412,
+              -1908
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=5qSSJPBS2qs&t=6156s",
+              "user": "SrTapir",
+              "category": "AKM"
+            }
+          ],
+          "enemy": "Black Moblin",
+          "enemy_id": "0xfa92e703",
+          "to": "Above Goronbi River",
+          "from": "Eldin Canyon",
+          "time": 13,
+          "name": "Eldin Canyon to Goronbi River",
+          "file": "eldin_ravine_to_goronbi_river.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              1591,
+              435
+            ],
+            [
+              1132,
+              -1223
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=Y1xBmEPYaZ8&t=2084s",
+              "user": "cbf",
+              "category": "Champions"
+            }
+          ],
+          "enemy": "Lizalfos",
+          "enemy_id": "0xf7170dda",
+          "to": "Military Training Camp",
+          "from": "Daka Tuss / Wetlands",
+          "time": 29,
+          "name": "Wetlands to Military Training Camp",
+          "file": "wetlands_to_training_camp.json"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              -1397,
+              1995
+            ],
+            [
+              -2025.5,
+              -61
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://clips.twitch.tv/FuriousResilientClintPRChase-BOy56HyuQZVNiBgm",
+              "user": "jm_runs",
+              "category": "AD"
+            }
+          ],
+          "enemy": "Bokoblin",
+          "enemy_id": "0xddd87754",
+          "to": "West Hyrule Plain",
+          "from": "Keh Namut",
+          "time": 36,
+          "name": "Keh Namut to West Hyrule Plain",
+          "file": "cryonis_to_west_hyrule_plain"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            [
+              4698,
+              -1405.5
+            ],
+            [
+              4296,
+              -2729
+            ]
+          ],
+          "type": "LineString"
+        },
+        "properties": {
+          "urls": [
+            {
+              "url": "https://www.youtube.com/watch?v=cDLL-8Xw-2w&t=3185s",
+              "user": "Vivoxe",
+              "category": "MSR"
+            }
+          ],
+          "enemy": "Black Bokoblin",
+          "enemy_id": "0xe3cabffc",
+          "to": "Katosa Aug",
+          "from": "Kah Mael",
+          "time": 18,
+          "name": "Kah Mael to Katosa Aug",
+          "file": "kah_mael_to_katosa_aug"
+        },
+        "style": {
+          "color": "#3388ff"
+        }
+      }
+    ]
+  },
+  "searchGroups": [],
+  "searchExcludeSets": [],
+  "OBJMAP_SV_VERSION": 3
+}
