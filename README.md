@@ -3,6 +3,8 @@ BotW BTB Database
 
 Database of Bullet Time Bounces with Video links and sources
 
+It can be found at https://restite.org/btb/
+
 Adding
 ------
 
