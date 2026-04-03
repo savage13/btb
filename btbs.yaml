@@ -58,6 +58,9 @@
       - url: https://youtu.be/sL4tb2FgNM0?t=2628
         user: Johnnyboomr
         category: AMQ
+      - url: https://youtu.be/nw_9NLEjl_o
+        user: Piston (Fast)
+        category: AS*[Only reach Rito Stable in 60fps]
     enemy: Black Moblin
     enemy_id: ' 0x639bb89a'
     to: Rito Village
@@ -1366,5 +1369,192 @@
     time: 18
     name: Kah Mael to Katosa Aug
     file: kah_mael_to_katosa_aug
+  style:
+    color: '#3388ff'
+- properties:
+    name: Daka Tuss to Fairy Fountain
+    file: daka_tuss_to_fairy_fountain
+    enemy: Lizalfos
+    enemy_id: '0x80103d4c'
+    from: Daka Tuss
+    to: Fairy Fountain
+    time: 8
+    urls:
+      - url: https://youtu.be/Z2jhx6Zbfz0
+        user: Piston
+        category: Many
+  geometry:
+    coordinates: [[1636.5,494.1], [1957,796.2]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Daka Tuss to Mezza Lo Deer
+    file: daka_tuss_to_mezza_lo_deer
+    enemy: Lizalfos
+    enemy_id: '0x80103d4c'
+    from: Daka Tuss
+    to: Mezza Lo Deer
+    time: 10 
+    urls:
+      - url: https://youtu.be/rVyx3IO9WuQ
+        user: Piston
+        category: AS
+  geometry:
+    coordinates: [[1636.5,494.1], [2505,352.2]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Bareeda Naag to Tena Kosah
+    file: bareeda_naag_to_tena_kosah
+    enemy: Black Bokoblin
+    enemy_id: '0x379b686c'
+    from: Bareeda Naag
+    to: Tena Kosah
+    time: 12
+    urls:
+      - url: https://youtu.be/iN316EZghzc
+        user: Piston
+        category: AS
+  geometry:
+    coordinates: [[-3575.5,-1500.4], [-3504.5,-472.6]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Tabantha Tower to Tena Kosah
+    file: tabantha_tower_to_tena_kosah
+    enemy: Black Moblin
+    enemy_id: '0xe11ac3a6'
+    from: Tabantha Tower
+    to: Tena Kosah
+    time: 10
+    urls:
+      - url: https://youtu.be/xYzcg9jscXk
+        user: Piston
+        category: Reference
+  geometry:
+    coordinates: [[-3564,-1053.4], [-3525,-456.7]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Tena Kosah to 8th Heroine
+    file: tena_kosah_to_8th_heroine
+    enemy: Black Moblin
+    enemy_id: '0xf8cd6229'
+    from: Tena Kosah
+    to: 8th Heroine
+    time: 20
+    urls:
+      - url: https://youtu.be/_mnmBGS8GCU
+        user: Piston
+        category: Reference [Only reach first snow area in 60fps]
+  geometry:
+    coordinates: [[-3552.5,-401.3], [-4311,481.2]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Tena Kosah to Toh Yahsa Orb
+    file: tena_kosah_to_toh_yahsa_orb
+    enemy: Black Moblin
+    enemy_id: '0xf8cd6229'
+    from: Tena Kosah
+    to: Toh Yahsa
+    time: 26
+    urls:
+      - url: https://www.youtube.com/watch?v=gmj8oAcD3Qg&t=9746s
+        user: Piston
+        category: ADEX
+  geometry:
+    coordinates: [[-3552.5,-401.3], [-2271.5,-1033.4]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Kema Kossasa to Kuh Takkar
+    file: kema_kossasa_to_kuh_takkar
+    enemy: Black Lizalfos
+    enemy_id: '0xbfad662e'
+    from: Kema Kossasa
+    to: Kuh Takkar
+    time: 19
+    urls:
+      - url: https://youtu.be/gDWP_FpYv2g
+        user: Piston
+        category: Reference*[Very Unreliable]
+  geometry:
+    coordinates: [[-4535.5,960.1], [-3103,1248.3]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Dila Maag to Suma Sahma
+    file: dila_maag_to_suma_sahma
+    enemy: Black Bokoblin
+    enemy_id: '0xe8a7d285'
+    from: Dila Maag
+    to: Suma Sahma
+    time: 9
+    urls:
+      - url: https://youtu.be/2cDROCt81jM
+        user: Piston
+        category: AS Amiibo
+  geometry:
+    coordinates: [[-1756.25,3342.7], [-1426,3450.2]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Lanayru Road East Gate to Myahm Agana
+    file: lanayru_road_east_gate_to_myahm_agana
+    enemy: Blue Bokoblin
+    enemy_id: '0xa953dfc5'
+    from: Lanayru Road East Gate
+    to: Myahm Agana
+    time: 21
+    urls:
+      - url: https://youtu.be/6utYcw_weiY
+        user: Piston
+        category: AS*[Require non-slow-draw bow]
+  geometry:
+    coordinates: [[3017,1142.1], [3386.75,2216.1]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Jitan Sami to Eventide
+    file: jitan_sami_to_eventide
+    enemy: Blue Lizalfos
+    enemy_id: '0x568a5ad3'
+    from: Jitan Sami
+    to: Eventide
+    time: 31
+    urls:
+      - url: https://youtu.be/zo5swG1YxCs
+        user: Piston
+        category: AS*[Require stam food]
+  geometry:
+    coordinates: [[4037,1407.1], [4789,3702.6]]
+    type: LineString
+  style:
+    color: '#3388ff'
+- properties:
+    name: Jitan Sami to Tawa Jinn
+    file: jitan_sami_to_tawa_jinn
+    enemy: Blue Lizalfos
+    enemy_id: '0x33d0ac05'
+    from: Jitan Sami
+    to: Tawa Jinn
+    time: 21
+    urls:
+      - url: https://youtu.be/6DRr_UOeMZk
+        user: Piston
+        category: AS
+  geometry:
+    coordinates: [[3761,1395.6], [2660.25,2845.8]]
+    type: LineString
   style:
     color: '#3388ff'
